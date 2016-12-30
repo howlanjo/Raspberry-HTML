@@ -1,9 +1,9 @@
 			<div id="footer">
 				<div class="footer_half">
-					<p>&copy;John Morris 2012</p>
+					<p>&copy;Howland HomeBot 2016</p>
 				</div>
 				<div class="footer_half t_align_right">
-					<p>Powered by <a href="http://learnphp.co">Learn PHP</a></p>
+					<p><a href="http://192.168.1.123">Home</a></p>
 				</div>
 			</div>
 		</div>

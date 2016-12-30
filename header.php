@@ -9,9 +9,9 @@
 	<body>
 		<div id="wrap">
 			<div id="header">
-				<h1>Demo Theme</h1>
-				<p>Just another John Morris demo</p>
+				<h1>This is the larger header</h1>
+				<p>This goes below where the larger header.</p>
 			</div>
 			<div id="navigation">
-				<?php echo do_main_nav() ; ?>
+				<?php echo do_main_nav(); ?>
 			</div>
