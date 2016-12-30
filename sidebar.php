@@ -1,4 +1,5 @@
 			<div id="sidebar">
 				<h3>Sidebar Header</h3>
 				<p>This is your sidebar area</p>
+				<p><?php echo "$the_content . This is after..."; ?></p>
 			</div>
