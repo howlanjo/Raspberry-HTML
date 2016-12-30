@@ -1,6 +1,6 @@
 <?php
-	$the_title = 'About';
-	$the_content = '<p>This is the about page. Here\'s where you would explain all about your site or company and let visitors get to know you and your staff.</p>';
+	$the_title = 'Item 1';
+	$the_content = '<p>This is where the information on the first item will be displayed.</p>';
 ?>
 
 <?php include('single.php'); ?>
