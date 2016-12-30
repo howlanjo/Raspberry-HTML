@@ -7,7 +7,7 @@
 		$class = "main_nav";
 		
 		$items_array = array ( 
-									array('text' => 'Home', 'url' => '/web-temp'),
+									array('text' => 'Home', 'url' => 'index.php'),
 									array('text' => 'About', 'url' => 'about.php')
 								);
 		
