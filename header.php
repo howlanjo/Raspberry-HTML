@@ -9,8 +9,8 @@
 	<body>
 		<div id="wrap">
 			<div id="header">
-				<h1>This is the larger header</h1>
-				<p>This goes below where the larger header.</p>
+				<h1>Howland Home Server System</h1>
+				<p>From this website, you will be able to access and control certain decives within the home.</p>
 			</div>
 			<div id="navigation">
 				<?php echo do_main_nav(); ?>
