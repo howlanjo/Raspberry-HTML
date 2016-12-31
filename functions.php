@@ -8,10 +8,10 @@
 		
 		$items_array = array ( 
 									array('text' => 'Home', 'url' => 'index.php'),
-									array('text' => 'Item 1', 'url' => 'Item1.php'),
-									array('text' => 'Item 2', 'url' => 'Item2.php'),
-									array('text' => 'Item 3', 'url' => 'Item3.php'),
-									array('text' => 'Item 4', 'url' => 'Item4.php')
+									array('text' => 'Coffee Maker', 'url' => 'Item1.php'),
+									array('text' => 'Light Bulb', 'url' => 'Item2.php'),
+									array('text' => 'Thermostat', 'url' => 'Item3.php'),
+									array('text' => 'Stove', 'url' => 'Item4.php')
 								);
 		
 		return $dtm->navigation($items_array, $class);
