@@ -1,7 +1,7 @@
 <?php
 	$the_title = 'Coffee Maker';
 	$the_content = '<p>This is where the information on the first item will be displayed.</p>';
-	$ImageLocation = "Photos/CoffeePhoto.jpg";
+	$ImageLocation = "http://192.168.1.129/Photos/CoffeePhoto.jpg";
 ?>
 
 <?php include('single.php'); ?>
