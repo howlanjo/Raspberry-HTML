@@ -15,7 +15,7 @@
 					}
 					?></p>
 					<?php
-					echo '<img src="'.$ImageLocation.'" alt="Invalid Photo" />';
+					<center>echo '<img src="'.$ImageLocation.'" alt="Invalid Photo" />';</center>
 					?>
 				</div>
 				<?php
