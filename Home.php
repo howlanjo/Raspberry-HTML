@@ -6,4 +6,6 @@
 <?php include('header.php'); ?>
 <?php include('Home_Single.php'); ?>
 <?php include('footer.php'); ?>
-<?php include('sidebar.php'); ?>
+			<div id="content">
+				<?php include('sidebar.php'); ?>
+			</div>
