@@ -1,7 +1,12 @@
+
+
 <?php
 	$the_title = 'Home';
 	$the_content = '<p>This is the home page. This is where all the overview information will be displayed.</p>';
-	$ImageLocation = "/Photos/HomePhoto.jpg";
+	if(isset($ImageLocation) == FALSE)
+	{
+		$ImageLocation = "/Photos/HomePhoto.jpg";
+	}
 ?>
 
-<?php require_once('single.php'); ?>
+<?php include('single.php'); ?>
