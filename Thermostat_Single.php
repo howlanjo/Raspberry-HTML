@@ -5,4 +5,3 @@
 					echo '<img src="'.$ImageLocation.'" alt="Invalid Photo" />';
 					?>
 				</div>
-			</div>
