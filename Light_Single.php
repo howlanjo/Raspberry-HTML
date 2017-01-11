@@ -5,7 +5,4 @@
 					echo '<img src="'.$ImageLocation.'" alt="Invalid Photo" />';
 					?>
 				</div>
-				<?php
-				$the_content = $the_content;
-				include('sidebar.php'); ?>
 			</div>

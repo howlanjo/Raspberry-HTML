@@ -6,4 +6,5 @@
 
 <?php include('header.php'); ?>
 <?php include('Light_Single.php'); ?>
+<?php include('sidebar.php'); ?>
 <?php include('footer.php'); ?>
