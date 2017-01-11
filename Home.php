@@ -5,7 +5,8 @@
 ?>
 <?php include('header.php'); ?>
 <?php include('Home_Single.php'); ?>
-<?php include('footer.php'); ?>
 			<div id="content">
 				<?php include('sidebar.php'); ?>
 			</div>
+<?php include('footer.php'); ?>
+			
