@@ -14,7 +14,7 @@
 						echo "No, the files was NOT found.";
 					}
 					?></p>
-					<center><img src=$ImageLocation alt="Invalid Photo" ></center>
+					<center><img src="Photos/LightBulbs.jpg" alt="Invalid Photo" ></center>
 				</div>
 				<?php
 				$the_content = $the_content;
