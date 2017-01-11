@@ -3,10 +3,8 @@
 <?php
 	$the_title = 'Home';
 	$the_content = '<p>This is the home page. This is where all the overview information will be displayed.</p>';
-	if(isset($ImageLocation) == FALSE)
-	{
-		$ImageLocation = "/Photos/HomePhoto.jpg";
-	}
+	$ImageLocation = "/Photos/HomePhoto.jpg";
 ?>
 
-<?php include('single.php'); ?>
+<?php include('single.php'); 
+$ImageLocation = "/Photos/HomePhoto.jpg";?>
