@@ -4,5 +4,6 @@
 	$ImageLocation = "/Photos/HomePhoto.jpg";
 ?>
 <?php include('header.php'); ?>
-<?php include('single.php'); ?>
+<?php include('Home_Single.php'); ?>
 <?php include('footer.php'); ?>
+<?php include('sidebar.php'); ?>

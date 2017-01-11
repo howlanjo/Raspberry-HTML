@@ -22,4 +22,11 @@
 		
 		return $title;
 	}
+	
+	function ThisIsATestFunction($inputVar)
+	{
+		$localVar = $inputVar;
+		
+		return $inputVar;
+	}
 ?>

@@ -5,5 +5,5 @@
 ?>
 
 <?php include('header.php'); ?>
-<?php include('single.php'); ?>
+<?php include('Stove_Single.php'); ?>
 <?php include('footer.php'); ?>
