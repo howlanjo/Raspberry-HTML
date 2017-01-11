@@ -4,4 +4,6 @@
 	$ImageLocation = "/Photos/CoffeePhoto.jpg";
 ?>
 
+<?php include('header.php'); ?>
 <?php include('single.php'); ?>
+<?php include('footer.php'); ?>
